@@ -1,0 +1,3 @@
+C:/Users/admin/Documents/CNTT/blah/gitdemo/ghienbunbo/cmake-build-debug/CMakeFiles/ghienbunbo.dir
+C:/Users/admin/Documents/CNTT/blah/gitdemo/ghienbunbo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Documents/CNTT/blah/gitdemo/ghienbunbo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
