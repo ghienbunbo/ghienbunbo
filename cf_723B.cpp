@@ -12,6 +12,7 @@ using namespace std;
 const int maxN = 200005;
 const int mod = 1e9 + 7;
 //da chinh sua
+//reset
 
 void solve() {
     int n;
